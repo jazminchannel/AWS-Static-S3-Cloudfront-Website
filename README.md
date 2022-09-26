@@ -14,7 +14,6 @@ The website is broken down into the architecture below:
 ### Language 
 
 - HTML 
-- CSS
 
 
 ### Deployment Platform
