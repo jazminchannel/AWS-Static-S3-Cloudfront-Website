@@ -5,7 +5,7 @@ In this project I created a static website in my S3 bucket and deployed the webs
 Link to Website: https://cloudfront.jazminjonescloud.com/
 
 
-## Website Breakdown
+## Architecture
 
 The website is broken down into the architecture below:
 
